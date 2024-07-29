@@ -116,6 +116,7 @@ CppWeb is licensed under the [MIT License](https://opensource.org/license/mit). 
 
 Feel free to adjust the details to better fit your needs or add any additional features and documentation as the project evolves!
 
-## Sample
-![image](https://github.com/user-attachments/assets/58754275-3abb-497e-b6c1-1853686686b6)
+## Example
+![image](https://github.com/user-attachments/assets/282b6777-1585-48fb-b6cc-7e9bc86b6e6d)
+
 
