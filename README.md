@@ -106,7 +106,7 @@ Contributions are welcome! To contribute to the project, you can:
 
 ## License
 
-CppWeb is licensed under the [MIT License]([LICENSE](https://github.com/0xJulian/cppweb/blob/main/LICENSE)). See the LICENSE file for more details.
+CppWeb is licensed under the [MIT License](https://opensource.org/license/mit). See the [LICENSE](https://github.com/0xJulian/cppweb/blob/main/LICENSE) file for more details.
 
 ## Additional Notes
 
