@@ -115,3 +115,7 @@ CppWeb is licensed under the [MIT License](https://opensource.org/license/mit). 
 - **Testing**: Include information on how to run tests or validate the application if applicable.
 
 Feel free to adjust the details to better fit your needs or add any additional features and documentation as the project evolves!
+
+## Sample
+![image](https://github.com/user-attachments/assets/58754275-3abb-497e-b6c1-1853686686b6)
+
