@@ -116,7 +116,26 @@ CppWeb is licensed under the [MIT License](https://opensource.org/license/mit). 
 
 Feel free to adjust the details to better fit your needs or add any additional features and documentation as the project evolves!
 
-## Example
-![image](https://github.com/user-attachments/assets/282b6777-1585-48fb-b6cc-7e9bc86b6e6d)
+## Examples
+
+Below is an example screenshot of a desktop application created using CppWeb, showcasing the power of combining C++ with modern web technologies:
+
+![CppWeb Example](https://github.com/user-attachments/assets/417f9c2a-eef8-4ce7-98d2-63a635937c6c)
+
+### Why This Library Helps
+
+CppWeb leverages the WebView2 control to integrate modern web technologies (HTML and CSS) with a C++ application backend. This approach offers several benefits for developing beautifully designed and modern desktop applications:
+
+1. **Modern User Interfaces**: By using HTML and CSS for the frontend, developers can design rich, responsive, and visually appealing user interfaces. This allows for the use of contemporary web design techniques, including animations, custom styles, and responsive layouts, which can significantly enhance the user experience.
+
+2. **Flexibility and Power**: C++ provides a powerful backend capable of handling complex logic, high-performance tasks, and efficient resource management. This is especially useful for applications that need to interact with or modify system-level settings or files, something a standard browser cannot do. Combined with WebView2, this enables the creation of high-performance applications with sophisticated UIs and the ability to perform tasks beyond typical web capabilities.
+
+3. **Seamless Integration**: WebView2 acts as a bridge, enabling the embedding of web content directly within the C++ application. This means that developers can utilize existing web development skills and tools to build the application's frontend, while still leveraging C++ for backend functionality.
+
+4. **Enhanced Aesthetics**: The example image demonstrates how CppWeb can be used to create applications with a polished and modern look. The ability to use CSS for styling means that developers can apply modern design trends and ensure their applications look and feel current and professional.
+
+5. **Dark Mode Support**: As shown in the example, CppWeb supports dark mode, which is a popular feature in modern applications. This support is built-in and can be easily activated, providing an immersive experience for users who prefer darker themes.
+
+By combining the strengths of C++ with the flexibility of web technologies, CppWeb enables developers to build desktop applications that are not only functional and efficient but also visually engaging and up-to-date with current design standards.
 
 
